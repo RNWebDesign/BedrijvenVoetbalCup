@@ -1,0 +1,13 @@
+/* CSS Document */
+#section-header {
+display: none;
+}
+#section-footer {
+display: none;
+}
+body {
+background: transparent;
+}
+#region-sidebar-second {
+display: none;
+}
